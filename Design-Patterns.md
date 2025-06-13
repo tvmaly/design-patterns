@@ -1,5 +1,7 @@
 A list of design patterns in Go with code examples.
 
+This can be used as context with large language models to help with Go related design questions.  
+
 This documentation is licensed under the MIT license.
 Copyright Tyson Maly 2025.
 
